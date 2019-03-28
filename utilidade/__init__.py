@@ -1,0 +1,1 @@
+'''Para poder iniciar o pacote e importar nos outro arquivos do folder'''
